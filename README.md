@@ -1,2 +1,2 @@
-# test-smartlab
+# German Homepage SmartLabOER
 test-smartglasses
