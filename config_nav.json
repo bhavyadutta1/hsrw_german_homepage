@@ -1,0 +1,9 @@
+{
+    "webapps": [
+      {
+        "name": "SmartLab",
+        "weblink": "https://bhavyadutta1.github.io/hsrw_german_homepage/",
+        "icon": "base64 encoded image"
+      }
+    ]
+  }
